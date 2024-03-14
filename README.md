@@ -3,8 +3,7 @@
 I'm currently searching a job as a
 JavaScript Developer
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Javier-Nieves)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javier-Nieves&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
