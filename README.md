@@ -7,6 +7,7 @@
   <div align="center" width='450px'>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
     <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
@@ -33,7 +34,7 @@
 
   <div align='center'>
     <div>🚀 I’m currently learning:
-          <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
     </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier-Nieves&layout=donut" width='450px' />
   </div>
