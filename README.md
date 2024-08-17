@@ -28,16 +28,10 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
   </div>
 
 ---
-
-  <div align='center'>
-    <div>🚀 I’m currently learning:
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
-    </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier-Nieves&layout=donut" width='450px' />
-  </div>
 
 </div>
 
